@@ -1,0 +1,26 @@
+{
+  "name": "github-test-repository",
+  "version": "1.0.0",
+  "description": "GitHub test respository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkoch/github-test-repository.git"
+  },
+  "keywords": [
+    "test",
+    "github"
+  ],
+  "author": "Daniel Koch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielkoch/github-test-repository/issues"
+  },
+  "homepage": "https://github.com/danielkoch/github-test-repository#readme",
+  "dependencies": {
+    "lodash": "4.17.11"
+  }
+}
